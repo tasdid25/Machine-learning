@@ -1,0 +1,505 @@
+Month,Ward No,Population Density,Household Size ,Average Income Level,Temperature,Humidity,Rainfall pattern,No. of Waste Collection Points,Fleet Size of Waste Collection Points,Distance to Landfill,Condition of waste Collection vehicles,Type of waste,Composting rate,Recycling rate,Waste Reduction Rate,Medical waste management efficiency,Public awareness level,Community involvement level,Availaility of waste education program,enforcement of waste management policies,Condition of Landfill sites,Cost of waste collection & disposal,Budget allocation for waste mnagement,Public satisfaction with waste management services,WBA activities improvement,3R activities implemented,Waste to Energy initiatives,Vehicle maintenanace efficiency,Intermediate treatment system capacity,Landfill infrastructure improvement,Admin & regulations Improvement,Waste Generation Amount,Waste disposal amount to Landfill
+2018-1,1,30531,3.66,26100,14.6,68,0,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-2,1,30531,3.66,26100,16.8,61,20,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-3,1,30531,3.66,26100,21.1,59,3,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-4,1,30531,3.66,26100,23.6,69,309,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-5,1,30531,3.66,26100,25.6,79,392,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-6,1,30531,3.66,26100,26.5,81,366,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-7,1,30531,3.66,26100,26.8,81,354,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-8,1,30531,3.66,26100,27.1,78,141,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-9,1,30531,3.66,26100,26.5,77,76,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-10,1,30531,3.66,26100,24.4,72,45,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-11,1,30531,3.66,26100,20.7,68,13,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-12,1,30531,3.66,26100,15.4,66,13,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-1,1,30531,3.66,26100,14.6,59,1,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-2,1,30531,3.66,26100,16.8,63,115,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-3,1,30531,3.66,26100,21.1,61,39,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-4,1,30531,3.66,26100,23.6,69,212,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-5,1,30531,3.66,26100,25.6,73,231,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-6,1,30531,3.66,26100,26.5,78,242,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-7,1,30531,3.66,26100,26.8,82,383,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-8,1,30531,3.66,26100,27.1,79,223,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-9,1,30531,3.66,26100,26.5,80,161,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-10,1,30531,3.66,26100,24.4,78,188,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-11,1,30531,3.66,26100,20.7,74,37,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2019-12,1,30531,3.66,26100,15.4,74,5,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-1,1,30531,3.66,26100,14.6,68,0,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-2,1,30531,3.66,26100,16.8,61,20,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-3,1,30531,3.66,26100,21.1,59,3,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-4,1,30531,3.66,26100,23.6,69,309,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-5,1,30531,3.66,26100,25.6,79,392,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-6,1,30531,3.66,26100,26.5,81,366,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-7,1,30531,3.66,26100,26.8,81,354,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-8,1,30531,3.66,26100,27.1,78,141,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-9,1,30531,3.66,26100,26.5,77,76,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-10,1,30531,3.66,26100,24.4,72,45,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-11,1,30531,3.66,26100,20.7,68,13,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2020-12,1,30531,3.66,26100,15.4,66,13,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-1,1,30531,3.66,26100,14.6,59,1,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-2,1,30531,3.66,26100,16.8,63,115,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-3,1,30531,3.66,26100,21.1,61,39,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-4,1,30531,3.66,26100,23.6,69,212,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-5,1,30531,3.66,26100,25.6,73,231,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-6,1,30531,3.66,26100,26.5,78,242,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-7,1,30531,3.66,26100,26.8,82,383,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-8,1,30531,3.66,26100,27.1,79,223,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-9,1,30531,3.66,26100,26.5,80,161,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-10,1,30531,3.66,26100,24.4,78,188,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-11,1,30531,3.66,26100,20.7,74,37,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2021-12,1,30531,3.66,26100,15.4,74,5,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-1,1,30531,3.66,26100,14.6,68,0,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-2,1,30531,3.66,26100,16.8,61,20,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-3,1,30531,3.66,26100,21.1,59,3,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-4,1,30531,3.66,26100,23.6,69,309,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-5,1,30531,3.66,26100,25.6,79,392,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-6,1,30531,3.66,26100,26.5,81,366,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-7,1,30531,3.66,26100,26.8,81,354,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-8,1,30531,3.66,26100,27.1,78,141,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-9,1,30531,3.66,26100,26.5,77,76,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-10,1,30531,3.66,26100,24.4,72,45,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-11,1,30531,3.66,26100,20.7,68,13,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2022-12,1,30531,3.66,26100,15.4,66,13,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-1,1,30531,3.66,26100,14.6,59,1,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-2,1,30531,3.66,26100,16.8,63,115,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-3,1,30531,3.66,26100,21.1,61,39,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-4,1,30531,3.66,26100,23.6,69,212,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-5,1,30531,3.66,26100,25.6,73,231,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-6,1,30531,3.66,26100,26.5,78,242,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-7,1,30531,3.66,26100,26.8,82,383,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-8,1,30531,3.66,26100,27.1,79,223,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-9,1,30531,3.66,26100,26.5,80,161,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-10,1,30531,3.66,26100,24.4,78,188,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-11,1,30531,3.66,26100,20.7,74,37,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2023-12,1,30531,3.66,26100,15.4,74,5,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-1,1,30531,3.66,26100,14.6,59,1,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-2,1,30531,3.66,26100,16.8,63,115,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-3,1,30531,3.66,26100,21.1,61,39,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-4,1,30531,3.66,26100,23.6,69,212,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-5,1,30531,3.66,26100,25.6,73,231,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-6,1,30531,3.66,26100,26.5,78,242,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-7,1,30531,3.66,26100,26.8,82,383,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-8,1,30531,3.66,26100,27.1,79,223,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-9,1,30531,3.66,26100,26.5,80,161,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-10,1,30531,3.66,26100,24.4,78,188,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-11,1,30531,3.66,26100,20.7,74,37,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2024-12,1,30531,3.66,26100,15.4,74,5,6,14,13,Good,Mixed,15%,20%,4%,50%,Medium,Medium,YES,Strict,Good,500000,1000000,Satisfied,70%,60%,50%,70%,80%,Moderate,90%,160000,114924
+2018-1,18,30531,3.66,20400,14.6,68,0,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-2,18,30531,3.66,20400,16.8,61,20,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-3,18,30531,3.66,20400,21.1,59,3,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-4,18,30531,3.66,20400,23.6,69,309,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-5,18,30531,3.66,20400,25.6,79,392,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-6,18,30531,3.66,20400,26.5,81,366,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-7,18,30531,3.66,20400,26.8,81,354,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-8,18,30531,3.66,20400,27.1,78,141,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-9,18,30531,3.66,20400,26.5,77,76,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-10,18,30531,3.66,20400,24.4,72,45,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-11,18,30531,3.66,20400,20.7,68,13,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-12,18,30531,3.66,20400,15.4,66,13,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-1,18,30531,3.66,20400,14.6,59,1,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-2,18,30531,3.66,20400,16.8,63,115,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-3,18,30531,3.66,20400,21.1,61,39,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-4,18,30531,3.66,20400,23.6,69,212,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-5,18,30531,3.66,20400,25.6,73,231,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-6,18,30531,3.66,20400,26.5,78,242,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-7,18,30531,3.66,20400,26.8,82,383,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-8,18,30531,3.66,20400,27.1,79,223,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-9,18,30531,3.66,20400,26.5,80,161,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-10,18,30531,3.66,20400,24.4,78,188,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-11,18,30531,3.66,20400,20.7,74,37,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2019-12,18,30531,3.66,20400,15.4,74,5,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,YES,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-1,18,30531,3.66,20400,14.6,68,0,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-2,18,30531,3.66,20400,16.8,61,20,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-3,18,30531,3.66,20400,21.1,59,3,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-4,18,30531,3.66,20400,23.6,69,309,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-5,18,30531,3.66,20400,25.6,79,392,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-6,18,30531,3.66,20400,26.5,81,366,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-7,18,30531,3.66,20400,26.8,81,354,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-8,18,30531,3.66,20400,27.1,78,141,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-9,18,30531,3.66,20400,26.5,77,76,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-10,18,30531,3.66,20400,24.4,72,45,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-11,18,30531,3.66,20400,20.7,68,13,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2020-12,18,30531,3.66,20400,15.4,66,13,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-1,18,30531,3.66,20400,14.6,59,1,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-2,18,30531,3.66,20400,16.8,63,115,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-3,18,30531,3.66,20400,21.1,61,39,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-4,18,30531,3.66,20400,23.6,69,212,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-5,18,30531,3.66,20400,25.6,73,231,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-6,18,30531,3.66,20400,26.5,78,242,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-7,18,30531,3.66,20400,26.8,82,383,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-8,18,30531,3.66,20400,27.1,79,223,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-9,18,30531,3.66,20400,26.5,80,161,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-10,18,30531,3.66,20400,24.4,78,188,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-11,18,30531,3.66,20400,20.7,74,37,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2021-12,18,30531,3.66,20400,15.4,74,5,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-1,18,30531,3.66,20400,14.6,68,0,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-2,18,30531,3.66,20400,16.8,61,20,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-3,18,30531,3.66,20400,21.1,59,3,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-4,18,30531,3.66,20400,23.6,69,309,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-5,18,30531,3.66,20400,25.6,79,392,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-6,18,30531,3.66,20400,26.5,81,366,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-7,18,30531,3.66,20400,26.8,81,354,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-8,18,30531,3.66,20400,27.1,78,141,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-9,18,30531,3.66,20400,26.5,77,76,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-10,18,30531,3.66,20400,24.4,72,45,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-11,18,30531,3.66,20400,20.7,68,13,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2022-12,18,30531,3.66,20400,15.4,66,13,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-1,18,30531,3.66,20400,14.6,59,1,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-2,18,30531,3.66,20400,16.8,63,115,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-3,18,30531,3.66,20400,21.1,61,39,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-4,18,30531,3.66,20400,23.6,69,212,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-5,18,30531,3.66,20400,25.6,73,231,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-6,18,30531,3.66,20400,26.5,78,242,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-7,18,30531,3.66,20400,26.8,82,383,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-8,18,30531,3.66,20400,27.1,79,223,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-9,18,30531,3.66,20400,26.5,80,161,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-10,18,30531,3.66,20400,24.4,78,188,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-11,18,30531,3.66,20400,20.7,74,37,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2023-12,18,30531,3.66,20400,15.4,74,5,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-1,18,30531,3.66,20400,14.6,59,1,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-2,18,30531,3.66,20400,16.8,63,115,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-3,18,30531,3.66,20400,21.1,61,39,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-4,18,30531,3.66,20400,23.6,69,212,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-5,18,30531,3.66,20400,25.6,73,231,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-6,18,30531,3.66,20400,26.5,78,242,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-7,18,30531,3.66,20400,26.8,82,383,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-8,18,30531,3.66,20400,27.1,79,223,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-9,18,30531,3.66,20400,26.5,80,161,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-10,18,30531,3.66,20400,24.4,78,188,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-11,18,30531,3.66,20400,20.7,74,37,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2024-12,18,30531,3.66,20400,15.4,74,5,2,4,18,Good,Mixed,13%,15%,3%,30%,Low,Low,Yes,Strict,Good,400000,800000,Not Satisfied,55%,40%,60%,40%,70%,Moderate,70%,90503,60123
+2018-1,9,21500,3.66,23600,14.6,68,0,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-2,9,21500,3.66,23600,16.8,61,20,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-3,9,21500,3.66,23600,21.1,59,3,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-4,9,21500,3.66,23600,23.6,69,309,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-5,9,21500,3.66,23600,25.6,79,392,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-6,9,21500,3.66,23600,26.5,81,366,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-7,9,21500,3.66,23600,26.8,81,354,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-8,9,21500,3.66,23600,27.1,78,141,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-9,9,21500,3.66,23600,26.5,77,76,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-10,9,21500,3.66,23600,24.4,72,45,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-11,9,21500,3.66,23600,20.7,68,13,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-12,9,21500,3.66,23600,15.4,66,13,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-1,9,21500,3.66,23600,14.6,59,1,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-2,9,21500,3.66,23600,16.8,63,115,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-3,9,21500,3.66,23600,21.1,61,39,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-4,9,21500,3.66,23600,23.6,69,212,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-5,9,21500,3.66,23600,25.6,73,231,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-6,9,21500,3.66,23600,26.5,78,242,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-7,9,21500,3.66,23600,26.8,82,383,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-8,9,21500,3.66,23600,27.1,79,223,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-9,9,21500,3.66,23600,26.5,80,161,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-10,9,21500,3.66,23600,24.4,78,188,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-11,9,21500,3.66,23600,20.7,74,37,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2019-12,9,21500,3.66,23600,15.4,74,5,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-1,9,21500,3.66,23600,14.6,68,0,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-2,9,21500,3.66,23600,16.8,61,20,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-3,9,21500,3.66,23600,21.1,59,3,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-4,9,21500,3.66,23600,23.6,69,309,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-5,9,21500,3.66,23600,25.6,79,392,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-6,9,21500,3.66,23600,26.5,81,366,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-7,9,21500,3.66,23600,26.8,81,354,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-8,9,21500,3.66,23600,27.1,78,141,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-9,9,21500,3.66,23600,26.5,77,76,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-10,9,21500,3.66,23600,24.4,72,45,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-11,9,21500,3.66,23600,20.7,68,13,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2020-12,9,21500,3.66,23600,15.4,66,13,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-1,9,21500,3.66,23600,14.6,59,1,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-2,9,21500,3.66,23600,16.8,63,115,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-3,9,21500,3.66,23600,21.1,61,39,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-4,9,21500,3.66,23600,23.6,69,212,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-5,9,21500,3.66,23600,25.6,73,231,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-6,9,21500,3.66,23600,26.5,78,242,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-7,9,21500,3.66,23600,26.8,82,383,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-8,9,21500,3.66,23600,27.1,79,223,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-9,9,21500,3.66,23600,26.5,80,161,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-10,9,21500,3.66,23600,24.4,78,188,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-11,9,21500,3.66,23600,20.7,74,37,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2021-12,9,21500,3.66,23600,15.4,74,5,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-1,9,21500,3.66,23600,14.6,68,0,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-2,9,21500,3.66,23600,16.8,61,20,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-3,9,21500,3.66,23600,21.1,59,3,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-4,9,21500,3.66,23600,23.6,69,309,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-5,9,21500,3.66,23600,25.6,79,392,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-6,9,21500,3.66,23600,26.5,81,366,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-7,9,21500,3.66,23600,26.8,81,354,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-8,9,21500,3.66,23600,27.1,78,141,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-9,9,21500,3.66,23600,26.5,77,76,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-10,9,21500,3.66,23600,24.4,72,45,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-11,9,21500,3.66,23600,20.7,68,13,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2022-12,9,21500,3.66,23600,15.4,66,13,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-1,9,21500,3.66,23600,14.6,59,1,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-2,9,21500,3.66,23600,16.8,63,115,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-3,9,21500,3.66,23600,21.1,61,39,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-4,9,21500,3.66,23600,23.6,69,212,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-5,9,21500,3.66,23600,25.6,73,231,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-6,9,21500,3.66,23600,26.5,78,242,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-7,9,21500,3.66,23600,26.8,82,383,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-8,9,21500,3.66,23600,27.1,79,223,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-9,9,21500,3.66,23600,26.5,80,161,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-10,9,21500,3.66,23600,24.4,78,188,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-11,9,21500,3.66,23600,20.7,74,37,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2023-12,9,21500,3.66,23600,15.4,74,5,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-1,9,21500,3.66,23600,14.6,59,1,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-2,9,21500,3.66,23600,16.8,63,115,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-3,9,21500,3.66,23600,21.1,61,39,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-4,9,21500,3.66,23600,23.6,69,212,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-5,9,21500,3.66,23600,25.6,73,231,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-6,9,21500,3.66,23600,26.5,78,242,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-7,9,21500,3.66,23600,26.8,82,383,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-8,9,21500,3.66,23600,27.1,79,223,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-9,9,21500,3.66,23600,26.5,80,161,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-10,9,21500,3.66,23600,24.4,78,188,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-11,9,21500,3.66,23600,20.7,74,37,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2024-12,9,21500,3.66,23600,15.4,74,5,3,5,22,Bad,Mixed,20%,17%,5%,35%,High,High,No,Loose,Good,300000,600000,Not Satisfied,45%,37%,50%,25%,60%,Moderate,60%,95607,65000
+2018-1,30,30000,3.66,30500,14.6,68,0,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-2,30,30000,3.66,30500,16.8,61,20,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-3,30,30000,3.66,30500,21.1,59,3,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-4,30,30000,3.66,30500,23.6,69,309,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-5,30,30000,3.66,30500,25.6,79,392,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-6,30,30000,3.66,30500,26.5,81,366,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-7,30,30000,3.66,30500,26.8,81,354,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-8,30,30000,3.66,30500,27.1,78,141,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-9,30,30000,3.66,30500,26.5,77,76,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-10,30,30000,3.66,30500,24.4,72,45,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-11,30,30000,3.66,30500,20.7,68,13,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-12,30,30000,3.66,30500,15.4,66,13,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-1,30,30000,3.66,30500,14.6,59,1,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-2,30,30000,3.66,30500,16.8,63,115,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-3,30,30000,3.66,30500,21.1,61,39,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-4,30,30000,3.66,30500,23.6,69,212,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-5,30,30000,3.66,30500,25.6,73,231,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-6,30,30000,3.66,30500,26.5,78,242,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-7,30,30000,3.66,30500,26.8,82,383,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-8,30,30000,3.66,30500,27.1,79,223,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-9,30,30000,3.66,30500,26.5,80,161,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-10,30,30000,3.66,30500,24.4,78,188,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-11,30,30000,3.66,30500,20.7,74,37,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2019-12,30,30000,3.66,30500,15.4,74,5,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-1,30,30000,3.66,30500,14.6,68,0,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-2,30,30000,3.66,30500,16.8,61,20,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-3,30,30000,3.66,30500,21.1,59,3,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-4,30,30000,3.66,30500,23.6,69,309,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-5,30,30000,3.66,30500,25.6,79,392,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-6,30,30000,3.66,30500,26.5,81,366,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-7,30,30000,3.66,30500,26.8,81,354,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-8,30,30000,3.66,30500,27.1,78,141,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-9,30,30000,3.66,30500,26.5,77,76,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-10,30,30000,3.66,30500,24.4,72,45,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-11,30,30000,3.66,30500,20.7,68,13,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2020-12,30,30000,3.66,30500,15.4,66,13,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-1,30,30000,3.66,30500,14.6,59,1,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-2,30,30000,3.66,30500,16.8,63,115,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-3,30,30000,3.66,30500,21.1,61,39,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-4,30,30000,3.66,30500,23.6,69,212,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-5,30,30000,3.66,30500,25.6,73,231,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-6,30,30000,3.66,30500,26.5,78,242,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-7,30,30000,3.66,30500,26.8,82,383,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-8,30,30000,3.66,30500,27.1,79,223,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-9,30,30000,3.66,30500,26.5,80,161,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-10,30,30000,3.66,30500,24.4,78,188,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-11,30,30000,3.66,30500,20.7,74,37,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2021-12,30,30000,3.66,30500,15.4,74,5,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-1,30,30000,3.66,30500,14.6,68,0,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-2,30,30000,3.66,30500,16.8,61,20,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-3,30,30000,3.66,30500,21.1,59,3,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-4,30,30000,3.66,30500,23.6,69,309,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-5,30,30000,3.66,30500,25.6,79,392,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-6,30,30000,3.66,30500,26.5,81,366,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-7,30,30000,3.66,30500,26.8,81,354,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-8,30,30000,3.66,30500,27.1,78,141,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-9,30,30000,3.66,30500,26.5,77,76,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-10,30,30000,3.66,30500,24.4,72,45,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-11,30,30000,3.66,30500,20.7,68,13,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2022-12,30,30000,3.66,30500,15.4,66,13,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-1,30,30000,3.66,30500,14.6,59,1,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-2,30,30000,3.66,30500,16.8,63,115,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-3,30,30000,3.66,30500,21.1,61,39,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-4,30,30000,3.66,30500,23.6,69,212,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-5,30,30000,3.66,30500,25.6,73,231,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-6,30,30000,3.66,30500,26.5,78,242,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-7,30,30000,3.66,30500,26.8,82,383,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-8,30,30000,3.66,30500,27.1,79,223,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-9,30,30000,3.66,30500,26.5,80,161,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-10,30,30000,3.66,30500,24.4,78,188,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-11,30,30000,3.66,30500,20.7,74,37,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2023-12,30,30000,3.66,30500,15.4,74,5,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-1,30,30000,3.66,30500,14.6,59,1,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-2,30,30000,3.66,30500,16.8,63,115,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-3,30,30000,3.66,30500,21.1,61,39,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-4,30,30000,3.66,30500,23.6,69,212,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-5,30,30000,3.66,30500,25.6,73,231,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-6,30,30000,3.66,30500,26.5,78,242,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-7,30,30000,3.66,30500,26.8,82,383,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-8,30,30000,3.66,30500,27.1,79,223,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-9,30,30000,3.66,30500,26.5,80,161,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-10,30,30000,3.66,30500,24.4,78,188,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-11,30,30000,3.66,30500,20.7,74,37,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2024-12,30,30000,3.66,30500,15.4,74,5,2,3,10,Bad,Mixed,20%,17%,2%,33%,Medium,Medium,Yes,Strict,Moderate,400000,800000,Satisfied,39%,40%,40%,29%,49%,Good,60%,65000,43000
+2018-1,14,33500,3.66,26700,14.6,68,0,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-2,14,33500,3.66,26700,16.8,61,20,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-3,14,33500,3.66,26700,21.1,59,3,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-4,14,33500,3.66,26700,23.6,69,309,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-5,14,33500,3.66,26700,25.6,79,392,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-6,14,33500,3.66,26700,26.5,81,366,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-7,14,33500,3.66,26700,26.8,81,354,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-8,14,33500,3.66,26700,27.1,78,141,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-9,14,33500,3.66,26700,26.5,77,76,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-10,14,33500,3.66,26700,24.4,72,45,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-11,14,33500,3.66,26700,20.7,68,13,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-12,14,33500,3.66,26700,15.4,66,13,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-1,14,33500,3.66,26700,14.6,59,1,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-2,14,33500,3.66,26700,16.8,63,115,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-3,14,33500,3.66,26700,21.1,61,39,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-4,14,33500,3.66,26700,23.6,69,212,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-5,14,33500,3.66,26700,25.6,73,231,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-6,14,33500,3.66,26700,26.5,78,242,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-7,14,33500,3.66,26700,26.8,82,383,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-8,14,33500,3.66,26700,27.1,79,223,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-9,14,33500,3.66,26700,26.5,80,161,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-10,14,33500,3.66,26700,24.4,78,188,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-11,14,33500,3.66,26700,20.7,74,37,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2019-12,14,33500,3.66,26700,15.4,74,5,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-1,14,33500,3.66,26700,14.6,68,0,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-2,14,33500,3.66,26700,16.8,61,20,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-3,14,33500,3.66,26700,21.1,59,3,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-4,14,33500,3.66,26700,23.6,69,309,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-5,14,33500,3.66,26700,25.6,79,392,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-6,14,33500,3.66,26700,26.5,81,366,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-7,14,33500,3.66,26700,26.8,81,354,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-8,14,33500,3.66,26700,27.1,78,141,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-9,14,33500,3.66,26700,26.5,77,76,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-10,14,33500,3.66,26700,24.4,72,45,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-11,14,33500,3.66,26700,20.7,68,13,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2020-12,14,33500,3.66,26700,15.4,66,13,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-1,14,33500,3.66,26700,14.6,59,1,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-2,14,33500,3.66,26700,16.8,63,115,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-3,14,33500,3.66,26700,21.1,61,39,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-4,14,33500,3.66,26700,23.6,69,212,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-5,14,33500,3.66,26700,25.6,73,231,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-6,14,33500,3.66,26700,26.5,78,242,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-7,14,33500,3.66,26700,26.8,82,383,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-8,14,33500,3.66,26700,27.1,79,223,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-9,14,33500,3.66,26700,26.5,80,161,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-10,14,33500,3.66,26700,24.4,78,188,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-11,14,33500,3.66,26700,20.7,74,37,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2021-12,14,33500,3.66,26700,15.4,74,5,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-1,14,33500,3.66,26700,14.6,68,0,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-2,14,33500,3.66,26700,16.8,61,20,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-3,14,33500,3.66,26700,21.1,59,3,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-4,14,33500,3.66,26700,23.6,69,309,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-5,14,33500,3.66,26700,25.6,79,392,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-6,14,33500,3.66,26700,26.5,81,366,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-7,14,33500,3.66,26700,26.8,81,354,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-8,14,33500,3.66,26700,27.1,78,141,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-9,14,33500,3.66,26700,26.5,77,76,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-10,14,33500,3.66,26700,24.4,72,45,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-11,14,33500,3.66,26700,20.7,68,13,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2022-12,14,33500,3.66,26700,15.4,66,13,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-1,14,33500,3.66,26700,14.6,59,1,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-2,14,33500,3.66,26700,16.8,63,115,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-3,14,33500,3.66,26700,21.1,61,39,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-4,14,33500,3.66,26700,23.6,69,212,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-5,14,33500,3.66,26700,25.6,73,231,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-6,14,33500,3.66,26700,26.5,78,242,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-7,14,33500,3.66,26700,26.8,82,383,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-8,14,33500,3.66,26700,27.1,79,223,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-9,14,33500,3.66,26700,26.5,80,161,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-10,14,33500,3.66,26700,24.4,78,188,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-11,14,33500,3.66,26700,20.7,74,37,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2023-12,14,33500,3.66,26700,15.4,74,5,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-1,14,33500,3.66,26700,14.6,59,1,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-2,14,33500,3.66,26700,16.8,63,115,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-3,14,33500,3.66,26700,21.1,61,39,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-4,14,33500,3.66,26700,23.6,69,212,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-5,14,33500,3.66,26700,25.6,73,231,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-6,14,33500,3.66,26700,26.5,78,242,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-7,14,33500,3.66,26700,26.8,82,383,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-8,14,33500,3.66,26700,27.1,79,223,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-9,14,33500,3.66,26700,26.5,80,161,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-10,14,33500,3.66,26700,24.4,78,188,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-11,14,33500,3.66,26700,20.7,74,37,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2024-12,14,33500,3.66,26700,15.4,74,5,1,2,14,Good,Mixed,10%,13%,1%,20%,Good,Good,No,Loose,Bad,300000,600000,Not Satisfied,25%,34%,25%,45%,30%,Moderate,50%,22300,14500
+2018-1,36,32700,3.66,20500,14.6,68,0,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2018-2,36,32700,3.66,20500,16.8,61,20,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2018-3,36,32700,3.66,20500,21.1,59,3,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2018-4,36,32700,3.66,20500,23.6,69,309,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2018-5,36,32700,3.66,20500,25.6,79,392,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2018-6,36,32700,3.66,20500,26.5,81,366,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2018-7,36,32700,3.66,20500,26.8,81,354,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2018-8,36,32700,3.66,20500,27.1,78,141,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2018-9,36,32700,3.66,20500,26.5,77,76,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2018-10,36,32700,3.66,20500,24.4,72,45,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2018-11,36,32700,3.66,20500,20.7,68,13,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2018-12,36,32700,3.66,20500,15.4,66,13,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-1,36,32700,3.66,20500,14.6,59,1,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-2,36,32700,3.66,20500,16.8,63,115,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-3,36,32700,3.66,20500,21.1,61,39,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-4,36,32700,3.66,20500,23.6,69,212,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-5,36,32700,3.66,20500,25.6,73,231,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-6,36,32700,3.66,20500,26.5,78,242,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-7,36,32700,3.66,20500,26.8,82,383,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-8,36,32700,3.66,20500,27.1,79,223,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-9,36,32700,3.66,20500,26.5,80,161,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-10,36,32700,3.66,20500,24.4,78,188,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-11,36,32700,3.66,20500,20.7,74,37,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2019-12,36,32700,3.66,20500,15.4,74,5,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-1,36,32700,3.66,20500,14.6,68,0,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-2,36,32700,3.66,20500,16.8,61,20,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-3,36,32700,3.66,20500,21.1,59,3,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-4,36,32700,3.66,20500,23.6,69,309,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-5,36,32700,3.66,20500,25.6,79,392,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-6,36,32700,3.66,20500,26.5,81,366,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-7,36,32700,3.66,20500,26.8,81,354,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-8,36,32700,3.66,20500,27.1,78,141,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-9,36,32700,3.66,20500,26.5,77,76,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-10,36,32700,3.66,20500,24.4,72,45,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-11,36,32700,3.66,20500,20.7,68,13,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2020-12,36,32700,3.66,20500,15.4,66,13,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-1,36,32700,3.66,20500,14.6,59,1,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-2,36,32700,3.66,20500,16.8,63,115,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-3,36,32700,3.66,20500,21.1,61,39,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-4,36,32700,3.66,20500,23.6,69,212,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-5,36,32700,3.66,20500,25.6,73,231,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-6,36,32700,3.66,20500,26.5,78,242,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-7,36,32700,3.66,20500,26.8,82,383,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-8,36,32700,3.66,20500,27.1,79,223,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-9,36,32700,3.66,20500,26.5,80,161,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-10,36,32700,3.66,20500,24.4,78,188,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-11,36,32700,3.66,20500,20.7,74,37,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2021-12,36,32700,3.66,20500,15.4,74,5,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-1,36,32700,3.66,20500,14.6,68,0,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-2,36,32700,3.66,20500,16.8,61,20,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-3,36,32700,3.66,20500,21.1,59,3,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-4,36,32700,3.66,20500,23.6,69,309,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-5,36,32700,3.66,20500,25.6,79,392,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-6,36,32700,3.66,20500,26.5,81,366,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-7,36,32700,3.66,20500,26.8,81,354,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-8,36,32700,3.66,20500,27.1,78,141,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-9,36,32700,3.66,20500,26.5,77,76,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-10,36,32700,3.66,20500,24.4,72,45,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-11,36,32700,3.66,20500,20.7,68,13,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2022-12,36,32700,3.66,20500,15.4,66,13,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-1,36,32700,3.66,20500,14.6,59,1,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-2,36,32700,3.66,20500,16.8,63,115,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-3,36,32700,3.66,20500,21.1,61,39,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-4,36,32700,3.66,20500,23.6,69,212,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-5,36,32700,3.66,20500,25.6,73,231,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-6,36,32700,3.66,20500,26.5,78,242,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-7,36,32700,3.66,20500,26.8,82,383,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-8,36,32700,3.66,20500,27.1,79,223,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-9,36,32700,3.66,20500,26.5,80,161,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-10,36,32700,3.66,20500,24.4,78,188,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-11,36,32700,3.66,20500,20.7,74,37,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2023-12,36,32700,3.66,20500,15.4,74,5,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-1,36,32700,3.66,20500,14.6,59,1,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-2,36,32700,3.66,20500,16.8,63,115,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-3,36,32700,3.66,20500,21.1,61,39,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-4,36,32700,3.66,20500,23.6,69,212,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-5,36,32700,3.66,20500,25.6,73,231,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-6,36,32700,3.66,20500,26.5,78,242,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-7,36,32700,3.66,20500,26.8,82,383,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-8,36,32700,3.66,20500,27.1,79,223,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-9,36,32700,3.66,20500,26.5,80,161,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-10,36,32700,3.66,20500,24.4,78,188,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-11,36,32700,3.66,20500,20.7,74,37,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
+2024-12,36,32700,3.66,20500,15.4,74,5,1,1,22,Bad,Mixed,9%,11%,4%,19%,Good,Bad,Yes,Strict,Good,150000,300000,Not Satisfied,23%,29%,18%,40%,34%,Bad,30%,12700,7600
