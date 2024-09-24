@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Form</title>
+</head>
+<body>
+
+<h2>Prediction Form</h2>
+
+<form name="passdata" action="." method="POST">
+    <table>
+        <tr>
+            <td>
+                <label for="Predictor">Predictor:</label>
+            </td>
+            <td>
+                <input type="text" id="Predictor" name="Predictor" required>
+            </td>
+        </tr>
+            <tr>
+            <td></td>
+            <td>
+                <input align="right" type="submit" value="Prdict">
+            </td>
+        </tr>
+        </table>
+</form>
+<table>
+        <tr>
+            <td>
+                <label for="Result">Result:</label>
+            </td>
+            <td>
+                <input type="text" id="Result" name="Result" value="{{p}}" required>
+            </td>
+        </tr>
+</table>
+</body>
+</html>
