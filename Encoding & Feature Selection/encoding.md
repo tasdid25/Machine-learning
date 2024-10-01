@@ -13,3 +13,9 @@ Ordinal categories are those in which we have to worry about the rank. These cat
 Example,
 
 i. Suppose in a dataset there is an education column which we will use to predict the salary of the person. The education column has categories like ‘bachelors’,’masters’,’PHD’. Based on the above categories we can rearrange this and assign ranks to each category. Based on the education level ‘PHD’ will get the highest rank (PHD-1, masters-2, bachelors-3)
+
+Which Encoder to Use?
+Nominal Features: Use OneHotEncoder.
+Ordinal Features: Use OrdinalEncoder.
+Target Labels: Use LabelEncoder or TargetEncoder (external).
+Mixed Types: Use ColumnTransformer to combine different encoders.
